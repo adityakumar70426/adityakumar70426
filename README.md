@@ -55,14 +55,14 @@ Complete travel website with 50+ destinations
 - 🥇 **Top 3.5%** in Flipkart Grid 5.0 (out of 450K participants)
 - 🏅 **Top 2000** in National Talent Search Examination (NTSE) - out of 1M+ candidates
 - 💪 **300+ DSA Problems** solved across multiple platforms
-- 🌟 **Advanced Rankings**: CodeChef (1544), LeetCode (1788)
+- 🌟 **Advanced Rankings**: CodeChef (1788), LeetCode (1820), Codeforces (1421)
 
 ## 📊 Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adityakumar70426/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/grand_glade_66)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityakumar704)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/adityakumar70426)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakumar70426)
 
