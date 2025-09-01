@@ -1,7 +1,7 @@
 # Hi there! I'm Aditya Kumar 👋
 
 ## 🎓 About Me
-I'm a passionate **Information Technology** student at **Indian Institute of Information Technology, Bhopal** (CGPA: 8.14), expected to graduate in July 2026. I love solving complex problems through code and building innovative solutions that make a difference.
+I'm a passionate **Information Technology** student at **Indian Institute of Information Technology, Bhopal** (CGPA: 8.23), expected to graduate in July 2026. I love solving complex problems through code and building innovative solutions that make a difference.
 
 ## 💻 What I Do
 - **Full-Stack Development**: Building responsive web applications with modern technologies
